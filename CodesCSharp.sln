@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesDados", "Converso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{8C693FBC-440E-490F-85A4-9296176D88DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernario", "OperadorTernario\OperadorTernario.csproj", "{26585AB3-6BD0-4EA1-BBE8-80A2A550AD02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8C693FBC-440E-490F-85A4-9296176D88DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C693FBC-440E-490F-85A4-9296176D88DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C693FBC-440E-490F-85A4-9296176D88DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26585AB3-6BD0-4EA1-BBE8-80A2A550AD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26585AB3-6BD0-4EA1-BBE8-80A2A550AD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26585AB3-6BD0-4EA1-BBE8-80A2A550AD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26585AB3-6BD0-4EA1-BBE8-80A2A550AD02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
