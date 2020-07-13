@@ -40,11 +40,5 @@ namespace CodesCSharp
         //CONTANTES
         const double MEDIDA = 10.5;
 
-        
-
-
-
-
-
     }
 }
